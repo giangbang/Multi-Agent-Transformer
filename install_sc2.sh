@@ -38,5 +38,6 @@ unzip SMAC_Maps.zip
 mv SMAC_Maps $MAP_DIR
 rm -rf SMAC_Maps.zip
 
+cp -r 3rdparty/StarCraftII /root/StarCraftII
 echo 'StarCraft II and SMAC are installed.'
 
